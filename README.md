@@ -1,5 +1,5 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: GEETU R      </h3>
+<h3>Name: GEETHU R      </h3>
 <h3>Register Number:   212224040089</h3>
 <H3>Aim:</H3>
 <p>
